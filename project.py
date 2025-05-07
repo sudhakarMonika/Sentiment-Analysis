@@ -51,5 +51,3 @@ if __name__ == '__main__':
             print(f"→ Polarity: {polarity:.2f}, Emotion: {emotion}\n")
 
         plot_sentiment(results)
-
-
